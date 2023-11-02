@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeanutFactory", "PeanutFact
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrappingRainWater", "TrappingRainWater\TrappingRainWater.csproj", "{DB1E1515-178B-404A-A141-A96A6FFCDE94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edabitCSharp", "edabitCSharp\edabitCSharp.csproj", "{E3F75E06-236D-4728-B9C6-3A5BD4806DBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB1E1515-178B-404A-A141-A96A6FFCDE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB1E1515-178B-404A-A141-A96A6FFCDE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB1E1515-178B-404A-A141-A96A6FFCDE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F75E06-236D-4728-B9C6-3A5BD4806DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F75E06-236D-4728-B9C6-3A5BD4806DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F75E06-236D-4728-B9C6-3A5BD4806DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F75E06-236D-4728-B9C6-3A5BD4806DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
